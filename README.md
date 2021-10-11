@@ -1,6 +1,6 @@
 # About this repository
 
-This is a bootcamp intended to a comprehensive set of resource to get into golang by completing some chalenges 
+This is a bootcamp intended to a comprehensive set of resource to get into golang by completing some challenges 
 
 # How to start?
 
