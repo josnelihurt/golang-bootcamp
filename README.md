@@ -4,4 +4,4 @@ This is a bootcamp intended to a comprehensive set of resource to get into golan
 
 # How to start?
 
-Please refer to the wiki page on this repository in order to review the documented process
+Please refer to the wiki page on this repository in order to review the documented process https://github.com/josnelihurt/golang-bootcamp/wiki
