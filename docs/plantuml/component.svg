@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="648px" preserveAspectRatio="none" style="width:607px;height:648px;background:#FFFFFF;" version="1.1" viewBox="0 0 607 648" width="607px" zoomAndPan="magnify"><defs><filter height="300%" id="ftntb2z4kwiem" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c7ea197fd26825f0f9c4870f099cb062]
+entity HttpService--><rect fill="#FEFECE" filter="url(#ftntb2z4kwiem)" height="46.2969" style="stroke:#A80036;stroke-width:1.5;" width="119" x="210.5" y="482"/><rect fill="#FEFECE" height="10" style="stroke:#A80036;stroke-width:1.5;" width="15" x="309.5" y="487"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="307.5" y="489"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="307.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="225.5" y="514.9951">HttpService</text><!--MD5=[81e2cab89b0b4ae64847b09643c2ae16]
+entity GRPCDetailService--><rect fill="#FEFECE" filter="url(#ftntb2z4kwiem)" height="46.2969" style="stroke:#A80036;stroke-width:1.5;" width="169" x="15.5" y="588"/><rect fill="#FEFECE" height="10" style="stroke:#A80036;stroke-width:1.5;" width="15" x="164.5" y="593"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="162.5" y="595"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="162.5" y="599"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="30.5" y="620.9951">GRPCDetailService</text><!--MD5=[53d14d83109e60c8d21a649cd988aaa5]
+entity GRPCUserService--><rect fill="#FEFECE" filter="url(#ftntb2z4kwiem)" height="46.2969" style="stroke:#A80036;stroke-width:1.5;" width="162" x="344" y="588"/><rect fill="#FEFECE" height="10" style="stroke:#A80036;stroke-width:1.5;" width="15" x="486" y="593"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="484" y="595"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="484" y="599"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="359" y="620.9951">GRPCUserService</text><!--MD5=[e7f8139ccc201b5f50a4dca78a648165]
+entity Mysql--><path d="M541.5,598.5 C541.5,588.5 571,588.5 571,588.5 C571,588.5 600.5,588.5 600.5,598.5 L600.5,623.7969 C600.5,633.7969 571,633.7969 571,633.7969 C571,633.7969 541.5,633.7969 541.5,623.7969 L541.5,598.5 " fill="#FEFECE" filter="url(#ftntb2z4kwiem)" style="stroke:#000000;stroke-width:1.5;"/><path d="M541.5,598.5 C541.5,608.5 571,608.5 571,608.5 C571,608.5 600.5,608.5 600.5,598.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="551.5" y="625.4951">Mysql</text><!--MD5=[ba72416187da2a396e219ea5b5d73a26]
+entity MongoDB--><path d="M219.5,598.5 C219.5,588.5 264,588.5 264,588.5 C264,588.5 308.5,588.5 308.5,598.5 L308.5,623.7969 C308.5,633.7969 264,633.7969 264,633.7969 C264,633.7969 219.5,633.7969 219.5,623.7969 L219.5,598.5 " fill="#FEFECE" filter="url(#ftntb2z4kwiem)" style="stroke:#000000;stroke-width:1.5;"/><path d="M219.5,598.5 C219.5,608.5 264,608.5 264,608.5 C264,608.5 308.5,608.5 308.5,598.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="229.5" y="625.4951">MongoDB</text><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><rect fill="#FEFECE" filter="url(#ftntb2z4kwiem)" height="134.0781" style="stroke:#A80036;stroke-width:1.5;" width="170" x="389" y="28"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="399" y="50.9951">User:</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="399" y="67.292">id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="399" y="83.5889">pwd_hash</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="399" y="99.8857">name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="399" y="116.1826">age(bith_date)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="399" y="132.4795">additional_information</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="399" y="148.7764">[]parent</text><!--MD5=[11f4769666054cda26d2bc303b3df0b5]
+entity HTTPService--><polygon fill="#FEFECE" filter="url(#ftntb2z4kwiem)" points="186,6,232,6,239,27,354,27,354,183.6719,186,183.6719,186,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="186" x2="239" y1="27" y2="27"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="196" y="46.9951">HTTPService</text><line style="stroke:#000000;stroke-width:1.0;" x1="187" x2="353" y1="50.2969" y2="50.2969"/><line style="stroke:#000000;stroke-width:1.0;" x1="187" x2="353" y1="52.2969" y2="52.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="196" y="67.292">+Authenticate()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="196" y="83.5889">+Create User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="196" y="99.8857">+Update User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="196" y="116.1826">+List User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="196" y="132.4795">+Delete User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="196" y="148.7764">+Bulk Create User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="196" y="165.0732">+Set User Parents()</text><!--MD5=[f3bd64ae14d8008c1d34e97a33ee6346]
+entity UserDetailService--><polygon fill="#FEFECE" filter="url(#ftntb2z4kwiem)" points="16,244,62,244,69,265,184,265,184,421.6719,16,421.6719,16,244" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="69" y1="265" y2="265"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="26" y="284.9951">UserDetailService</text><line style="stroke:#000000;stroke-width:1.0;" x1="17" x2="183" y1="288.2969" y2="288.2969"/><line style="stroke:#000000;stroke-width:1.0;" x1="17" x2="183" y1="290.2969" y2="290.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="26" y="305.292">+Authenticate()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="26" y="321.5889">+Create User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="26" y="337.8857">+Update User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="26" y="354.1826">+List User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="26" y="370.4795">+Delete User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="26" y="386.7764">+Bulk Create User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="26" y="403.0732">+Set User Parents()</text><!--MD5=[43a817812dddb31c7306ddcbea69bb00]
+entity UserService--><polygon fill="#FEFECE" filter="url(#ftntb2z4kwiem)" points="355,260.5,401,260.5,408,281.5,495,281.5,495,405.5781,355,405.5781,355,260.5" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="355" x2="408" y1="281.5" y2="281.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="365" y="301.4951">UserService</text><line style="stroke:#000000;stroke-width:1.0;" x1="356" x2="494" y1="304.7969" y2="304.7969"/><line style="stroke:#000000;stroke-width:1.0;" x1="356" x2="494" y1="306.7969" y2="306.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="365" y="321.792">+Authenticate()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="365" y="338.0889">+Create User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="365" y="354.3857">+Update User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="365" y="370.6826">+Get User()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="365" y="386.9795">+Delete User()</text><!--MD5=[639ff77c9f611f8543256f3354a5753a]
+link HTTPService to HttpService--><path d="M270,184.03 C270,277.03 270,418.2 270,476.91 " fill="none" id="HTTPService-to-HttpService" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="270,481.99,274,472.99,270,476.99,266,472.99,270,481.99" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b572b4355de59bd14def4b8c92f25935]
+link UserDetailService to GRPCDetailService--><path d="M100,422.09 C100,477.57 100,545.5 100,582.59 " fill="none" id="UserDetailService-to-GRPCDetailService" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="100,587.84,104,578.84,100,582.84,96,578.84,100,587.84" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[ce2b2369f1537d80103cdf257fafb862]
+link UserService to GRPCUserService--><path d="M425,405.8 C425,463.58 425,541.65 425,582.49 " fill="none" id="UserService-to-GRPCUserService" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="425,587.77,429,578.77,425,582.77,421,578.77,425,587.77" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7cff2d25399d40b7ee8bbb5f92276ba8]
+link HttpService to GRPCUserService--><path d="M302.87,528.06 C327.74,544.74 361.9,567.66 387.77,585.02 " fill="none" id="HttpService-to-GRPCUserService" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="392.18,587.98,386.9434,579.6387,388.0308,585.19,382.4794,586.2774,392.18,587.98" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[2ff96d737426d505c9462baa7b814fba]
+link HttpService to GRPCDetailService--><path d="M233.95,528.06 C206.56,544.81 168.9,567.85 140.48,585.24 " fill="none" id="HttpService-to-GRPCDetailService" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="136,587.98,145.7645,586.6935,140.2646,585.3699,141.5883,579.87,136,587.98" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[10d9cc441255ba0abeaaed3d2d577ff6]
+link GRPCUserService to Mysql--><path d="M506.27,611 C516.25,611 526.22,611 536.2,611 " fill="none" id="GRPCUserService-to-Mysql" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="541.42,611,532.42,607,536.42,611,532.42,615,541.42,611" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[6ed013ef0764cfe0a38aa4b799952fde]
+link GRPCDetailService to MongoDB--><path d="M184.56,611 C194.43,611 204.29,611 214.16,611 " fill="none" id="GRPCDetailService-to-MongoDB" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="219.32,611,210.32,607,214.32,611,210.32,615,219.32,611" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[937b8efe9f300203ec0244fa61f79ba5]
+@startuml
+
+component HttpService
+component GRPCDetailService
+component GRPCUserService
+database Mysql 
+database MongoDB
+
+agent User[
+  User:
+  id
+  pwd_hash
+  name
+  age(bith_date)
+  additional_information
+  []parent
+]
+
+folder HTTPService [
+  HTTPService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +List User()
+  +Delete User()
+  +Bulk Create User()
+  +Set User Parents()
+]
+
+
+folder UserDetailService [
+  UserDetailService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +List User()
+  +Delete User()
+  +Bulk Create User()
+  +Set User Parents()
+]
+
+
+
+folder UserService [
+  UserService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +Get User()
+  +Delete User()
+]
+
+
+HTTPService ...> HttpService
+UserDetailService ...> GRPCDetailService
+UserService ...> GRPCUserService
+HttpService - -> GRPCUserService
+HttpService - -> GRPCDetailService
+GRPCUserService -> Mysql
+GRPCDetailService -> MongoDB
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 07:40:07 COT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
