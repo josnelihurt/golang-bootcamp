@@ -1,0 +1,65 @@
+@startuml
+
+component HttpService
+component GRPCDetailService
+component GRPCUserService
+database Mysql 
+database MongoDB
+
+agent User[
+  User:
+  id
+  pwd_hash
+  name
+  age(bith_date)
+  additional_information
+  []parent
+]
+
+folder HTTPService [
+  HTTPService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +List User()
+  +Delete User()
+  +Bulk Create User()
+  +Set User Parents()
+]
+
+
+folder UserDetailService [
+  UserDetailService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +List User()
+  +Delete User()
+  +Bulk Create User()
+  +Set User Parents()
+]
+
+
+
+folder UserService [
+  UserService
+  ====
+  +Authenticate()
+  +Create User()
+  +Update User()
+  +Get User()
+  +Delete User()
+]
+
+
+HTTPService ...> HttpService
+UserDetailService ...> GRPCDetailService
+UserService ...> GRPCUserService
+HttpService --> GRPCUserService
+HttpService --> GRPCDetailService
+GRPCUserService -> Mysql
+GRPCDetailService -> MongoDB
+
+@enduml
