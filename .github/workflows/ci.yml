@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: ["main", "master", "cursor/**"]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+      - name: Go fmt
+        run: gofmt -l .
+      - name: Go vet
+        run: go vet ./...
+      - name: Go test
+        run: go test ./...
